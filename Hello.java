@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("bkl ho kya bhai");
+        System.out.println("hello java branch" );
         //hello
     }
 }
